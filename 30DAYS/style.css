@@ -39,3 +39,9 @@ P.attribution {
     margin-left: 350px;
     font-family: 'Poppins', sans-serif;
 }
+@media(max-width:600px)
+{
+	.move{transform: translateY(0);
+	}
+
+}
